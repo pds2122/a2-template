@@ -1,5 +1,5 @@
 # Assignment 2
-Practical Data Science (PDS) 2020/2021, University of Wuerzburg
+Practical Data Science (PDS) 2021/2022, University of Wuerzburg
 
 __Deadline 25.11.2021, 10am__ 
 
